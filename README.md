@@ -1,4 +1,9 @@
-My Scrimba Practice
+## My Scrimba Practice
+## Javascript URL Bookmark Collector
+
+The URL Bookmark Collector is a simple JavaScript project that enables users to collect and store their favorite URLs as bookmarks. The project provides a user-friendly interface where users can input a URL and save it for future reference. The collected bookmarks are stored locally within the user's web browser, allowing them to access their bookmarks whenever they revisit the web page.
+
+The JavaScript functionality of the URL Bookmark Collector app provides the core operations for collecting, saving, retrieving, and deleting bookmarks. The bookmarks are stored in the local storage.
 
 Learn HTML and CSS  
 Learn JaveScript  
@@ -8,9 +13,9 @@ Learn Typescript
 Learn FLexbox    
 Learn CSS Grid  
 Build and Deploy Portfolio  
-Build a Mobile App with Firebase  
-ES6+  
-React Router 6  
+Build a Mobile App with Firebase   
+Learn ES6+   
+Learn React Router 6   
 
 Quick start:
 
